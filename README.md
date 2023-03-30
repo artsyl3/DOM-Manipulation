@@ -6,10 +6,6 @@ Unit Displays width and height of the window.
 
 See the final product: https://artsyl3.github.io/DOM-Manipulation/
 
-## About the project
-
-DESCRIPTION
-
 ## Features
 
 - A website where you can watch the the width and the height of the window on 2 boxes. One box displays the width of the window and right-click is disabled(no menu
