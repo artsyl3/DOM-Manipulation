@@ -1,6 +1,6 @@
 # DOM-Manipulation
 
-Unit Display width and height of the window.
+Unit Displays width and height of the window.
 
 ## Preview
 
